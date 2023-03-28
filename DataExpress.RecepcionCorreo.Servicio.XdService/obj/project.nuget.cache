@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jb6aP2EeQ9s9/KlzBAFXw66JClYvF2SuD9D81jx0jp9iyL8azh5DbED0iyv+Cnfzd6qB7uG8aQGth516QMlCUg==",
+  "dgSpecHash": "CZP2xg3UUkqK9O0RVWeaiM8j6RIHcwL6AWjeJ9yeFrUudOTSz/ZivkJ3M1bMtW6ci3kCFiAtA6SusMvt2S7oUw==",
   "success": true,
-  "projectFilePath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Servicio.XdService\\DataExpress.RecepcionCorreo.Servicio.XdService.csproj",
+  "projectFilePath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Servicio.XdService\\DataExpress.RecepcionCorreo.Servicio.XdService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caper\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\caper\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

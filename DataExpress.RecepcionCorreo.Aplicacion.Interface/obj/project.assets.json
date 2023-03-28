@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj",
+      "projectUniqueName": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj",
       "projectName": "DataExpress.RecepcionCorreo.Aplicacion.Interface",
-      "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj",
+      "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj",
       "packagesPath": "C:\\Users\\caper\\.nuget\\packages\\",
-      "outputPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\obj\\",
+      "outputPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.DTO\\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj": {
-              "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.DTO\\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj"
+            "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.DTO\\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj": {
+              "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.DTO\\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj"
             }
           }
         }

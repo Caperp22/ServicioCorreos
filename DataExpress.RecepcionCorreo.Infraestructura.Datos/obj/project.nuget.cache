@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HoTcysJhn+Yp2AXzuwcCebxmbWjuhQA4GWBuhdWAFPXpikS6Xzukmvon79zxhOIat9Bnbbkd6ZLiror/3HoytA==",
+  "dgSpecHash": "t/YvlBMrSIz6itVY7beQ/e1xgbbHHdi/ABIVeyGFI7aukbJ9JP3V83sM8/cw5J8ibD9i17EhwlpA2ZvYSqDnXQ==",
   "success": true,
-  "projectFilePath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Datos\\DataExpress.RecepcionCorreo.Infraestructura.Datos.csproj",
+  "projectFilePath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Datos\\DataExpress.RecepcionCorreo.Infraestructura.Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caper\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\caper\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",

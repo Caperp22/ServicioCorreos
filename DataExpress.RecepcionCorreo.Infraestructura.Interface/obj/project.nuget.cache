@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Utai8auBM+5F5yw6p68EXgtaLdayqn5onKHhoMR4PDxs1VM4tGJ8jiowb7KmPNEeAgiV9t1sVETam+0r7zcg8w==",
+  "dgSpecHash": "LO9Wuofo+62Vb+c2wC36s15bXljf1mTUWNwLzG87Pfe1myKSo92sdNh714Zih/rNJxP73HiNOVMO3sQ7Bm8vgA==",
   "success": true,
-  "projectFilePath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Interface\\DataExpress.RecepcionCorreo.Infraestructura.Interface.csproj",
+  "projectFilePath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Interface\\DataExpress.RecepcionCorreo.Infraestructura.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

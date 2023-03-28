@@ -5960,11 +5960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Servicio.Acuses\\DataExpress.RecepcionCorreo.Servicio.Acuses.csproj",
+      "projectUniqueName": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Servicio.Acuses\\DataExpress.RecepcionCorreo.Servicio.Acuses.csproj",
       "projectName": "DataExpress.RecepcionCorreo.Servicio.Acuses",
-      "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Servicio.Acuses\\DataExpress.RecepcionCorreo.Servicio.Acuses.csproj",
+      "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Servicio.Acuses\\DataExpress.RecepcionCorreo.Servicio.Acuses.csproj",
       "packagesPath": "C:\\Users\\caper\\.nuget\\packages\\",
-      "outputPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Servicio.Acuses\\obj\\",
+      "outputPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Servicio.Acuses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5985,23 +5985,23 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.DTO\\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj": {
-              "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.DTO\\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj"
+            "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.DTO\\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj": {
+              "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.DTO\\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj"
             },
-            "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj": {
-              "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj"
+            "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj": {
+              "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Interface\\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj"
             },
-            "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Main\\DataExpress.RecepcionCorreo.Aplicacion.Main.csproj": {
-              "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Main\\DataExpress.RecepcionCorreo.Aplicacion.Main.csproj"
+            "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Main\\DataExpress.RecepcionCorreo.Aplicacion.Main.csproj": {
+              "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Main\\DataExpress.RecepcionCorreo.Aplicacion.Main.csproj"
             },
-            "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Datos\\DataExpress.RecepcionCorreo.Infraestructura.Datos.csproj": {
-              "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Datos\\DataExpress.RecepcionCorreo.Infraestructura.Datos.csproj"
+            "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Datos\\DataExpress.RecepcionCorreo.Infraestructura.Datos.csproj": {
+              "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Datos\\DataExpress.RecepcionCorreo.Infraestructura.Datos.csproj"
             },
-            "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Interface\\DataExpress.RecepcionCorreo.Infraestructura.Interface.csproj": {
-              "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Interface\\DataExpress.RecepcionCorreo.Infraestructura.Interface.csproj"
+            "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Interface\\DataExpress.RecepcionCorreo.Infraestructura.Interface.csproj": {
+              "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Interface\\DataExpress.RecepcionCorreo.Infraestructura.Interface.csproj"
             },
-            "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Repository\\DataExpress.RecepcionCorreo.Infraestructura.Repository.csproj": {
-              "projectPath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Repository\\DataExpress.RecepcionCorreo.Infraestructura.Repository.csproj"
+            "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Repository\\DataExpress.RecepcionCorreo.Infraestructura.Repository.csproj": {
+              "projectPath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Infraestructura.Repository\\DataExpress.RecepcionCorreo.Infraestructura.Repository.csproj"
             }
           }
         }

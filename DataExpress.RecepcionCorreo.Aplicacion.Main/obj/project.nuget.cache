@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cv0HU63TfUkXoz4WBSg8Kd4NVLByxGxHYi5wl0MjqMgTi5pg8rRuTwE4bUT/NaXPGlDPmeg9VMMO8tHVnl4JTQ==",
+  "dgSpecHash": "vugwZpYtSaZjxGZrfQ9d8qJOFChrtwoZQoVS/iP1bRTby7aB1nRgRWDJXINCWlEABCvOdw4Ydb39Rpy45NYXLQ==",
   "success": true,
-  "projectFilePath": "D:\\1. DataExpress\\ServiciCorreosAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Main\\DataExpress.RecepcionCorreo.Aplicacion.Main.csproj",
+  "projectFilePath": "D:\\1. DataExpress\\ServicioCorreoAcuses\\DataExpress.RecepcionCorreo.Aplicacion.Main\\DataExpress.RecepcionCorreo.Aplicacion.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caper\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\caper\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
