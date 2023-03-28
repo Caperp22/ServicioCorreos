@@ -1,0 +1,113 @@
+Asunto,Nombre,Email,Fecha Recibido,archivo
+Asunto,Nombre,Email,Fecha Recibido,archivo
+Asunto,Nombre,Email,Fecha Recibido,archivo
+Asunto,Nombre,Email,Fecha Recibido,archivo
+Asunto,Nombre,Email,Fecha Recibido,archivo
+'','','','',z09009498120462300000048.zip
+'','','','',z09009498120462300000057.zip
+'','','','',z09009498120462300000071.zip
+Archivo Valido,,,,ad09009498120462300000048.xml
+Archivo Valido,,,,ad09009498120462300000057.xml
+Archivo Valido,,,,ad09009498120462300000071.xml
+Archivo Valido,,,,fv09009498120462300000048.pdf
+Archivo Valido,,,,fv09009498120462300000057.pdf
+Archivo Valido,,,,fv09009498120462300000071.pdf
+Archivo invalido,,,,z09009498120462300000048.zip
+Archivo invalido,,,,z09009498120462300000057.zip
+Archivo invalido,,,,z09009498120462300000071.zip
+Archivo invalido,,,,ZipAdjuntos.zip
+Asunto,Nombre,Email,Fecha Recibido,archivo
+'','','','',z09009498120462300000048.zip
+'','','','',z09009498120462300000057.zip
+'','','','',z09009498120462300000071.zip
+Archivo Valido,,,,ad09009498120462300000048.xml
+Archivo Valido,,,,ad09009498120462300000057.xml
+Archivo Valido,,,,ad09009498120462300000071.xml
+Archivo Valido,,,,fv09009498120462300000048.pdf
+Archivo Valido,,,,fv09009498120462300000057.pdf
+Archivo Valido,,,,fv09009498120462300000071.pdf
+Archivo invalido,,,,z09009498120462300000048.zip
+Archivo invalido,,,,z09009498120462300000057.zip
+Archivo invalido,,,,z09009498120462300000071.zip
+Archivo invalido,,,,ZipAdjuntos.zip
+Asunto,Nombre,Email,Fecha Recibido,archivo
+'','','','',z09009498120462300000048.zip
+'','','','',z09009498120462300000057.zip
+'','','','',z09009498120462300000071.zip
+Archivo Valido,,,,ad09009498120462300000048.xml
+Archivo Valido,,,,ad09009498120462300000057.xml
+Archivo Valido,,,,ad09009498120462300000071.xml
+Archivo Valido,,,,fv09009498120462300000048.pdf
+Archivo Valido,,,,fv09009498120462300000057.pdf
+Archivo Valido,,,,fv09009498120462300000071.pdf
+Archivo invalido,,,,z09009498120462300000048.zip
+Archivo invalido,,,,z09009498120462300000057.zip
+Archivo invalido,,,,z09009498120462300000071.zip
+Archivo invalido,,,,ZipAdjuntos.zip
+Asunto,Nombre,Email,Fecha Recibido,archivo
+'','','','',z09009498120462300000048.zip
+'','','','',z09009498120462300000057.zip
+'','','','',z09009498120462300000071.zip
+Archivo Valido,,,,ad09009498120462300000048.xml
+Archivo Valido,,,,ad09009498120462300000057.xml
+Archivo Valido,,,,ad09009498120462300000071.xml
+Archivo Valido,,,,fv09009498120462300000048.pdf
+Archivo Valido,,,,fv09009498120462300000057.pdf
+Archivo Valido,,,,fv09009498120462300000071.pdf
+Archivo invalido,,,,z09009498120462300000048.zip
+Archivo invalido,,,,z09009498120462300000057.zip
+Archivo invalido,,,,z09009498120462300000071.zip
+Archivo invalido,,,,ZipAdjuntos.zip
+Asunto,Nombre,Email,Fecha Recibido,archivo
+'','','','',z09009498120462300000048.zip
+'','','','',z09009498120462300000057.zip
+'','','','',z09009498120462300000071.zip
+Archivo Valido,,,,ad09009498120462300000048.xml
+Archivo Valido,,,,ad09009498120462300000057.xml
+Archivo Valido,,,,ad09009498120462300000071.xml
+Archivo Valido,,,,fv09009498120462300000048.pdf
+Archivo Valido,,,,fv09009498120462300000057.pdf
+Archivo Valido,,,,fv09009498120462300000071.pdf
+Archivo invalido,,,,z09009498120462300000048.zip
+Archivo invalido,,,,z09009498120462300000057.zip
+Archivo invalido,,,,z09009498120462300000071.zip
+Archivo invalido,,,,ZipAdjuntos.zip
+Asunto,Nombre,Email,Fecha Recibido,archivo
+'','','','',z09009498120462300000048.zip
+'','','','',z09009498120462300000057.zip
+'','','','',z09009498120462300000071.zip
+Archivo Valido,,,,ad09009498120462300000048.xml
+Archivo Valido,,,,ad09009498120462300000057.xml
+Archivo Valido,,,,ad09009498120462300000071.xml
+Archivo Valido,,,,fv09009498120462300000048.pdf
+Archivo Valido,,,,fv09009498120462300000057.pdf
+Archivo Valido,,,,fv09009498120462300000071.pdf
+Archivo invalido,,,,z09009498120462300000048.zip
+Archivo invalido,,,,z09009498120462300000057.zip
+Archivo invalido,,,,z09009498120462300000071.zip
+Archivo invalido,,,,ZipAdjuntos.zip
+Asunto,Nombre,Email,Fecha Recibido,archivo
+Archivo Valido,,,,ad09009498120462300000048.xml
+Archivo Valido,,,,ad09009498120462300000057.xml
+Archivo Valido,,,,ad09009498120462300000071.xml
+Archivo Valido,,,,fv09009498120462300000048.pdf
+Archivo Valido,,,,fv09009498120462300000057.pdf
+Archivo Valido,,,,fv09009498120462300000071.pdf
+Archivo invalido,,,,z09009498120462300000048.zip
+Archivo invalido,,,,z09009498120462300000057.zip
+Archivo invalido,,,,z09009498120462300000071.zip
+Archivo invalido,,,,ZipAdjuntos.zip
+Asunto,Nombre,Email,Fecha Recibido,archivo
+'','','','',z09009498120462300000048.zip
+'','','','',z09009498120462300000057.zip
+'','','','',z09009498120462300000071.zip
+Archivo Valido,,,,ad09009498120462300000048.xml
+Archivo Valido,,,,ad09009498120462300000057.xml
+Archivo Valido,,,,ad09009498120462300000071.xml
+Archivo Valido,,,,fv09009498120462300000048.pdf
+Archivo Valido,,,,fv09009498120462300000057.pdf
+Archivo Valido,,,,fv09009498120462300000071.pdf
+Archivo invalido,,,,z09009498120462300000048.zip
+Archivo invalido,,,,z09009498120462300000057.zip
+Archivo invalido,,,,z09009498120462300000071.zip
+Archivo invalido,,,,ZipAdjuntos.zip

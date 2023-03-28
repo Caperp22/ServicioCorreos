@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Interop.Outlook">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>6</VersionMinor>
+      <VersionMajor>9</VersionMajor>
+      <Guid>00062fff-0000-0000-c000-000000000046</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.1" />
+    <PackageReference Include="OpenPop.NET" Version="2.0.6.1120" />
+    <PackageReference Include="System.ServiceModel.Duplex" Version="4.7.*" />
+    <PackageReference Include="System.ServiceModel.Http" Version="4.7.*" />
+    <PackageReference Include="System.ServiceModel.NetTcp" Version="4.7.*" />
+    <PackageReference Include="System.ServiceModel.Security" Version="4.7.*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataExpress.RecepcionCorreo.Aplicacion.DTO\DataExpress.RecepcionCorreo.Aplicacion.DTO.csproj" />
+    <ProjectReference Include="..\DataExpress.RecepcionCorreo.Aplicacion.Interface\DataExpress.RecepcionCorreo.Aplicacion.Interface.csproj" />
+    <ProjectReference Include="..\DataExpress.RecepcionCorreo.Infraestructura.Datos\DataExpress.RecepcionCorreo.Infraestructura.Datos.csproj" />
+    <ProjectReference Include="..\DataExpress.RecepcionCorreo.Infraestructura.Interface\DataExpress.RecepcionCorreo.Infraestructura.Interface.csproj" />
+    <ProjectReference Include="..\DataExpress.RecepcionCorreo.Infraestructura.Repository\DataExpress.RecepcionCorreo.Infraestructura.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

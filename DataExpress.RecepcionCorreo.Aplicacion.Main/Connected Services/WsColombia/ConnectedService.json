@@ -1,0 +1,29 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://democolombiav2.ipsofactu.co/core/XdService.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, WsColombia"
+    ],
+    "references": [
+      "AutoMapper, {AutoMapper, 11.0.1}",
+      "C:\\DataExpress\\Proyectos\\RecepcionCorreo\\DataExpress.RecepcionCorreo\\DataExpress.RecepcionCorreo.Aplicacion.Main\\bin\\Debug\\netcoreapp3.1\\DataExpress.RecepcionCorreo.Aplicacion.DTO.dll",
+      "C:\\DataExpress\\Proyectos\\RecepcionCorreo\\DataExpress.RecepcionCorreo\\DataExpress.RecepcionCorreo.Aplicacion.Main\\bin\\Debug\\netcoreapp3.1\\DataExpress.RecepcionCorreo.Aplicacion.Interface.dll",
+      "C:\\DataExpress\\Proyectos\\RecepcionCorreo\\DataExpress.RecepcionCorreo\\DataExpress.RecepcionCorreo.Aplicacion.Main\\bin\\Debug\\netcoreapp3.1\\DataExpress.RecepcionCorreo.Dominio.Interface.dll",
+      "C:\\DataExpress\\Proyectos\\RecepcionCorreo\\DataExpress.RecepcionCorreo\\DataExpress.RecepcionCorreo.Aplicacion.Main\\bin\\Debug\\netcoreapp3.1\\DataExpress.RecepcionCorreo.Infraestructura.Data.dll",
+      "C:\\DataExpress\\Proyectos\\RecepcionCorreo\\DataExpress.RecepcionCorreo\\DataExpress.RecepcionCorreo.Aplicacion.Main\\bin\\Debug\\netcoreapp3.1\\Interop.Microsoft.Office.Interop.Outlook.dll",
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 6.0.0}",
+      "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 6.0.0}",
+      "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 6.0.0}",
+      "OpenPop, {OpenPop.NET, 2.0.6.1120}",
+      "System.Runtime.CompilerServices.Unsafe, {System.Runtime.CompilerServices.Unsafe, 6.0.0}"
+    ],
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}

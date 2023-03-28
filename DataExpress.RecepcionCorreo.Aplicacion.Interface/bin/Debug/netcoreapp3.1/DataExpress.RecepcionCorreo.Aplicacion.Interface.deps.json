@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataExpress.RecepcionCorreo.Aplicacion.Interface/1.0.0": {
+        "dependencies": {
+          "DataExpress.RecepcionCorreo.Aplicacion.DTO": "1.0.0"
+        },
+        "runtime": {
+          "DataExpress.RecepcionCorreo.Aplicacion.Interface.dll": {}
+        }
+      },
+      "DataExpress.RecepcionCorreo.Aplicacion.DTO/1.0.0": {
+        "runtime": {
+          "DataExpress.RecepcionCorreo.Aplicacion.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataExpress.RecepcionCorreo.Aplicacion.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataExpress.RecepcionCorreo.Aplicacion.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
